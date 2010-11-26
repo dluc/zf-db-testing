@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+  <users id="1" username="user1" password="x011235" email="user1@example.com" name="Icab Cofin" />
+  <users id="2" username="user2" password="newpassword" email="user2@example.com" name="No name" />
+  <administrators id="1" username="admin" password="t0m4t0154fru1t" email="admin@example.net" name="The Boss" />
+</dataset>

@@ -1,0 +1,10 @@
+<phpunit
+	bootstrap="application/bootstrap.php"
+	colors="true"
+	backupGlobals="false">
+    <testsuites>
+        <testsuite name="application">
+            <directory>./application</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
